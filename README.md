@@ -7,7 +7,7 @@
 例：選手が12人だった場合→12÷4=3  
 　　1つの山に3人いることになる
     ![Test Image 3](/image/12人トーナメント.png)
-    <img src="/image/12人トーナメント.png" width="50px">
+    <img src="/image/12人トーナメント.png" width="500px">
 
 ## 考慮すること
 LEVEL00 データ作成  
